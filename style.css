@@ -109,15 +109,13 @@ body {
 
 
 .card__block img {
-   width: 100px;
-   height: 100px;
-   object-fit: cover;
+   font-size: 64px;
 }
 
 .card__details {
     padding: 0 ;
     max-width: 250px;
-    margin: 0px auto;
+   margin-left: 115px;
 
 }
 
@@ -158,3 +156,4 @@ body {
     }
     
 }
+
